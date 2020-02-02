@@ -6,9 +6,9 @@ $pkg install git python2
 
 $pip2 install --upgrade pip
 
-$git clone https://github.com/Mr-Thirteen-13/DarkVIP
+$git clone https://github.com/Mr-Thirteen-13/Dark-VIP
 
-$cd DarkVip
+$cd Dark-VIP
 
 $pip2 install -r requirements.txt
 
