@@ -35,12 +35,6 @@ def jalan(z):
                 time.sleep(00000.1)
 	
 	
-sleep 3
-
-echo "\033[32;1mTULIS= BastianTamvanx-NitahSyank "
-read p;
-
-
 	
 ##### LOGO #####
 logo = """ \33[31;1m████████
