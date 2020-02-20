@@ -34,7 +34,14 @@ def jalan(z):
                 sys.stdout.flush()
                 time.sleep(00000.1)
 	
-		
+	
+sleep 3
+
+echo "\033[32;1mTULIS= BastianTamvanx-NitahSyank "
+read p;
+
+sleep 3
+	
 ##### LOGO #####
 logo = """ \33[31;1m████████
 \33[31;1m█▄█████▄█      \33[31;1m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
