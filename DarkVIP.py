@@ -40,7 +40,7 @@ sleep 3
 echo "\033[32;1mTULIS= BastianTamvanx-NitahSyank "
 read p;
 
-sleep 3
+
 	
 ##### LOGO #####
 logo = """ \33[31;1m████████
